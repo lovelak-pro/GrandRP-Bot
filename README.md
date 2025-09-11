@@ -12,7 +12,7 @@ GrandBotRP is a desktop automation bot built using Python. It provides a graphic
 - Modern UI: Built with HTML/CSS for a clean and user-friendly interface.
 - Secure Access: HWID and key-based authentication.
 
-# 👉[ Download Here v1.0](https://lovelak.rf.gd)👈
+# 👉[ Download Here v1.1](https://grandbotrp.rf.gd) 👈
 
 ## Screenshots
 
@@ -25,7 +25,7 @@ GrandBotRP is a desktop automation bot built using Python. It provides a graphic
 ![image](src/img/7.png)
 ![image](src/img/8.png)
 
-# 👉[ Download Here v1.0](https://lovelak.rf.gd)👈
+# 👉[ Download Here v1.1](https://grandbotrp.rf.gd) 👈
 
 ## How To Use?
 
