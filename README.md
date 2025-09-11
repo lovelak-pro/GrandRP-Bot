@@ -8,6 +8,8 @@ GrandBotRP is a desktop automation bot built using Python. It provides a graphic
 - Gym Bots: Automate gym tasks with customizable repetitions.
 - Oil Well Bots: Automate oil well jobs at multiple levels.
 - Interaction Bots: Automate medkit and hello tasks.
+- Fishing&Mining: Automate you fishing & Mining tasks.
+- Electrition Bot: Hold down the `E` Key for you.
 - Auto Seatbelt : Automatically fasten your seatbelt.
 - Modern UI: clean and user-friendly interface.
 
