@@ -9,8 +9,7 @@ GrandBotRP is a desktop automation bot built using Python. It provides a graphic
 - Oil Well Bots: Automate oil well jobs at multiple levels.
 - Interaction Bots: Automate medkit and hello tasks.
 - Auto Seatbelt : Automatically fasten your seatbelt.
-- Modern UI: Built with HTML/CSS for a clean and user-friendly interface.
-- Secure Access: HWID and key-based authentication.
+- Modern UI: clean and user-friendly interface.
 
 # 👉[ Download Here v1.1](https://grandbotrp.rf.gd) 👈
 
